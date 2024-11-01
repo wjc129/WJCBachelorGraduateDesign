@@ -1,1 +1,4 @@
 # WJCBachelorGraduateDesign
+I COMPLETED MY BACHELOR GRADUATE DESIGN PROJECT, AND THIS IS THE PROJECT CODE.
+# 课题  CT稀疏角度重建
+使用sart，fdk，dl方法重建
