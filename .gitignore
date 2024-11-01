@@ -1,3 +1,5 @@
-*.raw
 *.dll*
-
+*.pth
+*.pt
+*.raw
+*.m
